@@ -1,0 +1,18 @@
+{
+"filename":"cus.dat",
+"columns":[{"column_name":"fname","datatype":"string","length":8,"is_null":true,"is_variable_legth":false},
+	    {"column_name":"lname","datatype":"string","length":8,"is_null":true,"is_variable_legth":false},
+	    {"column_name":"total_name","datatype":"string","length":40,"is_null":true,"is_variable_legth":true},
+	    {"column_name":"phone_number","datatype":"file","length":40,"is_null":true,"is_variable_legth":true,"file_path":"/Users/mbp/Python/ipython/create_testdata/phone_number.txt"},
+	    {"column_name":"email_address","datatype":"string","length":40,"is_null":true,"is_variable_legth":true}  
+ ],
+
+"cleanup_rules":[
+		{"greater_than":["fname","lname"]},
+		{"if_first_then_second":["fname","lname"]},
+		{"uniq":"fname"},
+		{"either_or":["email_address","phone_number"]}
+	  ],
+"number_of_rows":200,
+"separator":","
+}
