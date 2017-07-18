@@ -11,7 +11,7 @@
 	    {"column_name":"date_of_birth","datatype":"xdate","from_date":"01.JAN.1930 09:01:00","until_date":"01.DEC.2012 23:59:59","date_format":"%d.%b.%Y %H:%M:%S"},
 	    {"column_name":"home_address","datatype":"address","file_path":"input/berlin.csv"},
 	    {"column_name":"domicile","datatype":"country"},
-            {"column_name":"primary_card","datatype":"creditcard","country":"CH","bank_name":"credit-suisse","card_type":"mastercard"}
+	    {"column_name":"primary_card","datatype":"creditcard","country":"CH","bank_name":"credit-suisse","card_type":"mastercard"}
  ],
 
 "cleanup_rules":[
@@ -20,6 +20,6 @@
 		{"uniq":"fname"},
 		{"either_or":["email_address","phone_number"]}
 	  ],
-"number_of_rows":2000,
+"number_of_rows":100,
 "separator":","
 }

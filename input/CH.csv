@@ -42,4 +42,2594 @@ LON,LAT,NUMBER,STREET,UNIT,CITY,DISTRICT,REGION,POSTCODE,ID,HASH
 13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
 13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
 13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
+13.3892158,52.5186351,39,Dorotheenstraße,,Berlin,,,10117,,1a9f3cf304d83d95
+13.3890773,52.5186267,41,Dorotheenstraße,,Berlin,,,10117,,a70dadcf241df020
+13.3888669,52.5186122,43,Dorotheenstraße,,Berlin,,,10117,,5030f9f00add3c0d
+13.3871414,52.5187261,56,Dorotheenstraße,,Berlin,,,10117,,143a41430fdf4d78
+13.3870652,52.5190089,58,Dorotheenstraße,,Berlin,,,10117,,b86baaf92b0a8b95
+13.3870244,52.5192561,60,Dorotheenstraße,,Berlin,,,10117,,b27f45f94ec8bd57
+13.3879758,52.5185545,63,Dorotheenstraße,,Berlin,,,10117,,2173ec7999069bdc
+13.3872866,52.5183572,65,Dorotheenstraße,,Berlin,,,10117,,fa0c0ff1b426e1fc
+13.3833393,52.5184977,88,Dorotheenstraße,,Berlin,,,10117,,9ac2f8c760eabeb4
+13.382488,52.5182013,91,Dorotheenstraße,,Berlin,,,10117,,d2c19fdea174bed9
+13.3820171,52.5180027,93,Dorotheenstraße,,Berlin,,,10117,,c3e335e02daa74c8
+13.3820093,52.5183979,94,Dorotheenstraße,,Berlin,,,10117,,bc0e3712856db287
+13.3795229,52.5181351,98,Dorotheenstraße,,Berlin,,,10117,,cc788f857a3d115e
+13.3793814,52.5178817,99,Dorotheenstraße,,Berlin,,,10117,,14f9594cbf61796c
+13.3780216,52.5180243,100,Dorotheenstraße,,Berlin,,,10117,,df79f04ee8f682ab
+13.3777148,52.5177631,103,Dorotheenstraße,,Berlin,,,10117,,02c17cf4d4b06941
+13.4091915,52.5106244,75,Alte Jakobstraße,,Berlin,,,10179,,1b6e5713c9236b99
+13.4088614,52.5104705,76,Alte Jakobstraße,,Berlin,,,10179,,4f25ced642bacb79
+13.408598,52.5106375,77 A,Alte Jakobstraße,,Berlin,,,10179,,383419228aed1301
+13.40837,52.5108363,77 B,Alte Jakobstraße,,Berlin,,,10179,,1b9645cd40af8339
+13.408133,52.5106878,77 C,Alte Jakobstraße,,Berlin,,,10179,,8ecf23dc859e391f
+13.408012,52.5109,77 D,Alte Jakobstraße,,Berlin,,,10179,,aebead957f923ff9
+13.4079213,52.5105951,78 A,Alte Jakobstraße,,Berlin,,,10179,,c63a0fddf95140ec
+13.40801,52.5102076,79,Alte Jakobstraße,,Berlin,,,10179,,88979ba21e3f7554
+13.4078776,52.5101407,80,Alte Jakobstraße,,Berlin,,,10179,,d2e78ad126462b4b
+13.4077275,52.5100562,81,Alte Jakobstraße,,Berlin,,,10179,,cd1161f050ffe690
+13.4075864,52.5099619,82,Alte Jakobstraße,,Berlin,,,10179,,5686b9345f3429db
+13.4074137,52.5098517,83,Alte Jakobstraße,,Berlin,,,10179,,8c1180724cd418d9
+13.4072838,52.5097658,84,Alte Jakobstraße,,Berlin,,,10179,,7572a245c7f67fb7
+13.4068474,52.5094395,87,Alte Jakobstraße,,Berlin,,,10179,,c60b9dc1c13c96da
+13.4067334,52.509366,88,Alte Jakobstraße,,Berlin,,,10179,,0ee90f03cc7451bb
+13.4064247,52.5091675,90,Alte Jakobstraße,,Berlin,,,10179,,7539c89ba3f2de3c
+13.3924077,52.5081047,16,Charlottenstraße,,Berlin,,,10117,,ddd152e69e9afcaa
+13.3923836,52.508255,17,Charlottenstraße,,Berlin,,,10117,,002db5b68c81d06f
+13.4193129,52.5235445,72,Otto-Braun-Straße,,Berlin,,,10178,,7dd34e4c6cc4cdcd
+13.3960675,52.5194301,3,Dorotheenstraße,,Berlin,,,10117,,58563cdf7c46ef4d
+13.3940601,52.5193514,16,Dorotheenstraße,,Berlin,,,10117,,47efc998880565c7
+13.3917783,52.5192125,26,Dorotheenstraße,,Berlin,,,10117,,96c3d317c4fc9f1a
+13.3914051,52.5189387,27,Dorotheenstraße,,Berlin,,,10117,,0eb02d64f941bf90
+13.3898511,52.518665,33,Dorotheenstraße,,Berlin,,,10117,,fde2c164f68b5a3f
+13.3891903,52.518889,34,Dorotheenstraße,,Berlin,,,10117,,6e93eaafadd1a45c
+13.3897137,52.5186699,35,Dorotheenstraße,,Berlin,,,10117,,025c011f388aa2b2
+13.3894677,52.5186535,37,Dorotheenstraße,,Berlin,,,10117,,d76a05fc52856e17
 
